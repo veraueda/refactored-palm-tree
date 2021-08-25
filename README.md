@@ -1,5 +1,5 @@
 # refactored-palm-tree
-Sugestão de repositório palmeira refatorada
+Repositório palmeira refatorada
 
 Bem vindo a refactored-palm-tree :tada:
 
